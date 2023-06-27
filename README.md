@@ -27,5 +27,4 @@ In the music browser, users can also search for albums, artists, or songs by ent
  - REPOSITRY LINK - https://github.com/99Anvar99/Media-Universe
  - DEPLOYED LINK - https://99anvar99.github.io/Media-Universe/
 
-
-![Songs](ImageStoredSongs.PNG)# Project-1
+![Songs](ImageStoredSongs.PNG)
